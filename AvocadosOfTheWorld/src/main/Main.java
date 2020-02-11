@@ -1,6 +1,6 @@
 /*
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * David Hollins
+ * hollindv@mail.uc.edu
  * 
  */
 package main;

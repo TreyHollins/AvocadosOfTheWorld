@@ -1,10 +1,10 @@
 /*
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * David Hollins
+ * hollindv@mail.uc.edu
  * 
  */
 
-package fruit;
+package fruit; 
 /***
  * An Abstract class upon which we will build fruits
  * @author nicomp

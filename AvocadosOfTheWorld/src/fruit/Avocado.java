@@ -1,9 +1,9 @@
 /*
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * David Hollins
+ * holliindv@mail.uc.edu
  * 
  */
-package fruit;
+package fruit; 
 /***
  * Model an Avocado at Meijer in the Produce Department
  * @author nicomp
