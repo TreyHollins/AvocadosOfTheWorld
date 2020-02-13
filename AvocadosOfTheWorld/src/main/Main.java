@@ -7,6 +7,7 @@ package main;
 
 import fruit.Fruit;
 import fruit.Avocado; 
+import bin.Bin;
 
 public class Main {
 
@@ -17,6 +18,13 @@ public class Main {
 		//Declare and instantiate an avocado named avocajoe
 		Avocado avocajoe = new Avocado(6, (float).50);
 		
+		
+		//Declare and instantiate a Bin object
+		Bin box = new Bin(avocajoe);
+		//Add 50 avocados to the bin
+		for(int i = 0; i == 50; i++) {
+			box.addAvocado(new Avocado(6, (float).50));
+		}
 
 	}
 }
